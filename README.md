@@ -1,8 +1,6 @@
 <div align="center">
-    <h1> <img src="https://i.imghippo.com/files/ZaBTS1729283732.jpg" width="80px"><br/>DocuSage - RAG QA Bot</h1>
+    <h1> <img src="https://i.imghippo.com/files/ZaBTS1729283732.jpg" width="80px"><br/>DocuSage - Retrieval-Augmented Generation (RAG) QA Bot</h1>
 </div>
-
-## DocuSage - Retrieval-Augmented Generation (RAG) QA Bot
 
 This project implements a Retrieval-Augmented Generation (RAG) model for a Question Answering (QA) bot using a Streamlit app. The system leverages state-of-the-art NLP techniques to provide accurate and context-aware responses to user queries.
 
