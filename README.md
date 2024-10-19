@@ -7,6 +7,7 @@ This project implements a Retrieval-Augmented Generation (RAG) model for a Quest
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Screenshots](#screenshots)
 - [Architecture Overview](#architecture-overview)
 - [Key Features](#key-features)
 - [Installation](#installation)
@@ -22,6 +23,10 @@ This project implements a Retrieval-Augmented Generation (RAG) model for a Quest
 ## Introduction
 
 DocuSage combines retrieval and generation models to efficiently handle complex queries and provide coherent answers. It uses a large-scale language model, `llama-3.1-70b`, to generate responses based on retrieved document chunks.
+
+## Screenshots
+
+ <img src="https://i.imghippo.com/files/TdSWp1729338037.png"> <img src="https://i.imghippo.com/files/gT2eI1729338098.png"> <img src="https://i.imghippo.com/files/T3E1d1729338126.png"> <img src="https://i.imghippo.com/files/NPkzY1729338154.png">
 
 ## Architecture Overview
 
